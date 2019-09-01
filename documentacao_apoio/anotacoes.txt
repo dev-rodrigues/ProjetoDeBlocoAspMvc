@@ -1,5 +1,7 @@
 anotaçoes
 
+1.cuidar da palavra gerenciamento
+
 1.2
 especificar siglas
 
@@ -16,5 +18,8 @@ material usado - ex: academia.edu, lates
 2.2
 especificar funçoes gerais
 
-1.cuidar da palavra gerenciamento
-6.foge do tema
+
+requisitos de usuario:
+7.foge do tema
+
+
